@@ -466,8 +466,4 @@ Masz dostęp do:
 
 **Zaproście pracę! Powodzenia! 🚀**
 
----
 
-**Ostatnia aktualizacja:** Styczeń 2024  
-**Wersja:** 1.0.0  
-**Status:** Production Ready ✅
